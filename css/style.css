@@ -1,4 +1,4 @@
 .bg-tlg{
-    background: url(/images/bg.png) no-repeat;
-    height: 1000px;
+    background: url(/images/bg.png) repeat;
+    min-height: 400px;
 }
