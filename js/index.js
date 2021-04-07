@@ -11,7 +11,7 @@ class Card {
         out.innerHTML += `<div class="card my-3 border border-secondary" style="width: 18rem;">
                             <div class="card-body">
                                 <h5 class="card-title"> 
-                                    ${q_arr[0]}
+                                ${this.id + 1}. ${q_arr[0]}
                                 </h5>
                                 ${radio}
                             </div>
